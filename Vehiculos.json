@@ -1,0 +1,108 @@
+{
+"__class__": "Manejador_Vehiculos",
+"Lista_vehiculos": [
+    { "__class__": "Vehiculo_usado",
+     "__atributos__": {
+        "modelo": "Palio",
+        "cantidad_puertas": 5,
+        "color": "rojo",
+        "precio_base": 8000,
+        "marca": "Peugeot",
+        "patente": "AB126CD",
+        "anio": 2018,
+        "kilometraje": 25000
+       }
+    },
+    {"__class__": "Vehiculo_usado",
+     "__atributos__": {
+        "modelo": "Ford Focus",
+        "cantidad_puertas": 5,
+        "color": "blanco",
+        "precio_base": 15000,
+        "marca": "Ford",
+        "patente": "AB125CD",
+        "anio": 2018,
+        "kilometraje": 18000
+      }
+    },
+    {"__class__": "Vehiculo_usado",
+     "__atributos__": {
+        "modelo": "Toyota Corolla",
+        "cantidad_puertas": 5,
+        "color": "negro",
+        "precio_base": 20000,
+        "marca": "Toyota",
+        "patente": "AB124CD",
+        "anio": 2020,
+        "kilometraje": 30000
+     }
+    },
+    {"__class__": "Vehiculo_usado",
+     "__atributos__": {
+        "modelo": "Nissan Sentra",
+        "cantidad_puertas": 5,
+        "color": "azul",
+        "precio_base": 17000,
+        "marca": "Nissan",
+        "patente": "AB123CD",
+        "anio": 2018,
+        "kilometraje": 15000
+      }
+    },
+    {"__class__": "Vehiculo_usado",
+     "__atributos__": {
+        "modelo": "Honda Civic",
+        "cantidad_puertas": 5,
+        "color": "gris",
+        "precio_base": 5000,
+        "marca": "Honda",
+       "patente": "AB127CD",
+        "anio": 2018,
+        "kilometraje": 15000
+      }
+    },
+    {"__class__": "Vehiculo_usado",
+     "__atributos__": {
+        "modelo": "Audi A4",
+        "cantidad_puertas": 5,
+        "color": "negro",
+        "precio_base": 30000,
+        "marca": "Audi",
+        "patente": "AB128CD",
+        "anio": 2018,
+        "kilometraje": 250000
+      }
+    },
+    {"__class__": "Vehiculo_nuevo",
+     "__atributos__": {
+        "modelo": "Toyota Corolla",
+        "cantidad_puertas": 5,
+        "precio_base": 15000,
+        "marca": "Ford",
+        "color": "gris",
+        "version": "full"
+       }
+    },
+    {"__class__": "Vehiculo_nuevo",
+     "__atributos__": {
+        "modelo": "Toyota Prius",
+        "cantidad_puertas": 5,
+        "precio_base": 15000,
+        "marca": "Ford",
+        "color": "negro",
+        "version": "full"
+      }
+    },
+    {"__class__": "Vehiculo_nuevo",
+     "__atributos__": {
+        "modelo": "Toyota Prius",
+        "cantidad_puertas": 5,
+        "precio_base": 15000,
+        "marca": "Ford",
+        "color": "negro",
+        "version": "base"
+      }
+    }
+   ]
+  }
+
